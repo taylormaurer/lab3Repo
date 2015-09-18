@@ -1,2 +1,3 @@
 # lab3Repo
-This is for lab 3
+Taylor Maurer
+Lab3
